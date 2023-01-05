@@ -98,3 +98,20 @@ main{
     color: #474747;
     
 }
+.do{
+    margin-top: 130px;
+
+}
+.secs-title{
+    text-align: center;
+}
+.skills-cont{
+    display: flex;
+    padding-bottom: 10px;
+   
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin: top 20px;
+}
